@@ -69,16 +69,27 @@ JSON storage system
 📂 Project Structure
 
 TimelyFlow/
+
 │── data/
+
 │    ├── faculties.json
+
 │    ├── rooms.json
+
 │    ├── generated_timetable.json
+
 │    ├── manual_entries.json
+
 │    ├── uploaded_timetable.json
+
 │    ├── dataset.json
+
 │    ├── generated_timetable.xlsx
+
 │    ├── manual_timetable.xlsx
+
 │── app.py  ← Main Streamlit Application
+
 │── README.md
 
 
