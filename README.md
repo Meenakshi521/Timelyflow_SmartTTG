@@ -67,6 +67,7 @@ OpenPyXL
 JSON storage system
 
 📂 Project Structure
+
 TimelyFlow/
 │── data/
 │    ├── faculties.json
@@ -80,7 +81,9 @@ TimelyFlow/
 │── app.py  ← Main Streamlit Application
 │── README.md
 
+
 🧩 How It Works
+
 1️⃣ Add Resources
 
 Add faculty & subjects or room details.
@@ -101,13 +104,13 @@ streamlit run app.py
 
 🔮 Future Improvements
 
-Clash-free smart allocation (AI-based scheduling)
+-->Clash-free smart allocation (AI-based scheduling)
 
-Faculty/room availability constraints
+-->Faculty/room availability constraints
 
-Multi-section timetable generation
+-->Multi-section timetable generation
 
-Admin login system
+-->Admin login system
 
-Dark/light theme toggle
+-->Dark/light theme toggle
 
